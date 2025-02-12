@@ -59,10 +59,15 @@ const HeroSection = () => {
         id="cta"
         className="flex flex-col items-center opacity-0 translate-y-20"
       >
-        <a href="#highlights" className="btn">
+        <a
+          href="#highlights"
+          className="bg-gray-800 hover:bg-gray-700 text-white font-medium py-3 px-6 rounded-lg transition duration-300 shadow-md"
+        >
           Buy
         </a>
-        <p className="font-normal text-xl">From $199/month or $999</p>
+        <p className="text-gray-100 mt-5">
+          Starting at $999 or $199/month with financing
+        </p>
       </div>
     </section>
   );

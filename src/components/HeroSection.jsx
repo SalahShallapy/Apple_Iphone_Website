@@ -61,7 +61,7 @@ const HeroSection = () => {
       >
         <a
           href="#highlights"
-          className="bg-gray-800 hover:bg-gray-600 text-white font-medium py-3 px-6 rounded-lg transition duration-300 shadow-md"
+          className="bg-gray-800 hover:bg-gray-700 text-white font-medium py-3 px-6 rounded-lg transition duration-300 shadow-md"
         >
           Buy
         </a>

@@ -65,7 +65,7 @@ const HeroSection = () => {
         >
           Buy
         </a>
-        <p className="text-gray-100 mt-5">
+        <p className="text-gray-200 mt-5">
           Starting at $999 or $199/month with financing.
         </p>
       </div>
